@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/StarWarsClickyGame/static/css/main.1acb6fed.chunk.css",
-    "main.js": "/StarWarsClickyGame/static/js/main.d622d852.chunk.js",
-    "main.js.map": "/StarWarsClickyGame/static/js/main.d622d852.chunk.js.map",
+    "main.css": "/StarWarsClickyGame/static/css/main.c270d681.chunk.css",
+    "main.js": "/StarWarsClickyGame/static/js/main.f51c2c86.chunk.js",
+    "main.js.map": "/StarWarsClickyGame/static/js/main.f51c2c86.chunk.js.map",
     "runtime-main.js": "/StarWarsClickyGame/static/js/runtime-main.9b9513dc.js",
     "runtime-main.js.map": "/StarWarsClickyGame/static/js/runtime-main.9b9513dc.js.map",
-    "static/js/2.550ab4f7.chunk.js": "/StarWarsClickyGame/static/js/2.550ab4f7.chunk.js",
-    "static/js/2.550ab4f7.chunk.js.map": "/StarWarsClickyGame/static/js/2.550ab4f7.chunk.js.map",
+    "static/js/2.a117ba02.chunk.js": "/StarWarsClickyGame/static/js/2.a117ba02.chunk.js",
+    "static/js/2.a117ba02.chunk.js.map": "/StarWarsClickyGame/static/js/2.a117ba02.chunk.js.map",
     "index.html": "/StarWarsClickyGame/index.html",
-    "precache-manifest.a2d90cb68ef1a0591ba9a5fa15de7215.js": "/StarWarsClickyGame/precache-manifest.a2d90cb68ef1a0591ba9a5fa15de7215.js",
+    "precache-manifest.423f2867dd5eaa184f053f694a225835.js": "/StarWarsClickyGame/precache-manifest.423f2867dd5eaa184f053f694a225835.js",
     "service-worker.js": "/StarWarsClickyGame/service-worker.js",
-    "static/css/main.1acb6fed.chunk.css.map": "/StarWarsClickyGame/static/css/main.1acb6fed.chunk.css.map",
+    "static/css/main.c270d681.chunk.css.map": "/StarWarsClickyGame/static/css/main.c270d681.chunk.css.map",
     "static/media/logo.svg": "/StarWarsClickyGame/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9b9513dc.js",
-    "static/js/2.550ab4f7.chunk.js",
-    "static/css/main.1acb6fed.chunk.css",
-    "static/js/main.d622d852.chunk.js"
+    "static/js/2.a117ba02.chunk.js",
+    "static/css/main.c270d681.chunk.css",
+    "static/js/main.f51c2c86.chunk.js"
   ]
 }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "244fa93026d817e476f7700e3dabc0e7",
+    "revision": "e2faefd38b068a607b739821332ae634",
     "url": "/StarWarsClickyGame/index.html"
   },
   {
-    "revision": "daf16edb02a0ff1ec9e8",
-    "url": "/StarWarsClickyGame/static/css/main.1acb6fed.chunk.css"
+    "revision": "e7c69c2b09aab07dc961",
+    "url": "/StarWarsClickyGame/static/css/main.c270d681.chunk.css"
   },
   {
-    "revision": "2331fd1c432bb8bd1939",
-    "url": "/StarWarsClickyGame/static/js/2.550ab4f7.chunk.js"
+    "revision": "798832b82c85a4f89659",
+    "url": "/StarWarsClickyGame/static/js/2.a117ba02.chunk.js"
   },
   {
-    "revision": "daf16edb02a0ff1ec9e8",
-    "url": "/StarWarsClickyGame/static/js/main.d622d852.chunk.js"
+    "revision": "e7c69c2b09aab07dc961",
+    "url": "/StarWarsClickyGame/static/js/main.f51c2c86.chunk.js"
   },
   {
     "revision": "8b0fa7243d2eddd3f74d",
