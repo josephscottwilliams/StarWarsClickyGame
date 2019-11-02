@@ -3,7 +3,7 @@ import React from "react"
 
 
 function Nav(props) {
-    return<nav className="navbar navbar-light bg-light">
+    return<nav className="navbar navbar-light bg-light" className="navText">
     <ul>
         <li className="brand">Clicky Game</li>
         <li className>Click an image to begin with</li>

@@ -31,12 +31,12 @@ class App extends React.Component {
       
     // }
   //   console.log(id);
-  //   this.setState({
-  //     score:this.state.score + 1,
-  //     highScore:this.state.highScore + 1,
-  //     clickedItems: [...this.state.clickedItems, id]
+    this.setState({
+      score:this.state.score + 1,
+      highScore:this.state.highScore + 1,
+      clickedItems: [...this.state.clickedItems, id]
       
-  //   })
+    })
   // console.log(this.state.clickedItems);
     return id;
 
@@ -60,6 +60,7 @@ class App extends React.Component {
           highScore={this.state.highScore}
           />
           <Header />
+          <div className="main-div">
         {characters.map(characters => 
         <Card
           id={characters.id}
@@ -67,6 +68,7 @@ class App extends React.Component {
           image={characters.image}
           click={this.displayNewOrder}
         />)}
+        </div>
       </div>
     );
     

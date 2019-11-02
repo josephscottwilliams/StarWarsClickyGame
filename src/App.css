@@ -1,3 +1,6 @@
+body {
+  background: black;
+}
 .App {
   text-align: center;
 }
@@ -32,3 +35,17 @@ li {
   border: 5px;
   border-radius: 3px;
 }
+
+.main-div {
+  background: black;
+  margin: 20px 250px;
+}
+
+.navText {
+  color: yellow;
+}
+
+.jumbotron {
+  color: yellow;
+}
+
